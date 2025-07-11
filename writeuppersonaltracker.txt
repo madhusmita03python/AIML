@@ -1,0 +1,13 @@
+Overview
+This Personal Expense Tracker  users manage their monthly expenses, track their budget, and save/load expense data using a CSV file. It allows users to interactively add expenses, view them in a structured list, and monitor how much of their budget is remaining.
+I have handled the error handling cases .But for date is pending
+Features
+Set and Track Budget: Prompts the user to input a monthly budget and continuously tracks remaining funds.
+
+Add Expenses: Users can enter expense details such as date, category, amount, and description.
+
+View Expense List: Displays all recorded expenses in a readable format.
+
+Persistent Storage: Automatically saves all expenses into a CSV file (expenses.csv) and loads it upon startup.
+
+Budget Alert: Warns the user if their expenses exceed the allocated budget
